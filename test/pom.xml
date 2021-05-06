@@ -217,7 +217,7 @@
 	<snapshotRepository>
 		<id>deployment</id>
         <name>snapshot release</name>
-        <url>http://35.222.184.195:8081/repository/maven-snapshots/</url>
+        <url>http://35.192.32.44:8081/repository/maven-snapshots/</url>
 	</snapshotRepository>
 	</distributionManagement>
 </project>
