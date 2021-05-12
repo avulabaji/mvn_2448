@@ -4,7 +4,7 @@
   <groupId>demo</groupId>
   <artifactId>test</artifactId>
   <packaging>war</packaging>
-  <version>4-SNAPSHOT</version>
+  <version>5-SNAPSHOT</version>
   
   <properties>
   	<gig.version>0.4.3</gig.version>
@@ -217,7 +217,7 @@
 	<snapshotRepository>
 		<id>deployment</id>
         <name>snapshot release</name>
-        <url>http://35.224.104.149:8081/repository/maven-snapshots/</url>
+        <url>http://10.128.0.25:8081/repository/maven-snapshots/</url>
 	</snapshotRepository>
 	</distributionManagement>
 </project>
